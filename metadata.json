@@ -1,0 +1,8 @@
+{
+  "name": "Ad Creative",
+  "description": "Cinematic advertising, product visuals and social creatives built for brands that want to stand out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
